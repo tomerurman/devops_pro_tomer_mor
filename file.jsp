@@ -12,7 +12,7 @@
 			<table style="with: 50%">
 				<tr>
 					<td>First Name</td>
-					<td><input type="text" name="first_name" /></td>
+					<td><input type="text" name="First_name" /></td>
 				</tr>
 				<tr>
 					<td>Last Name</td>
