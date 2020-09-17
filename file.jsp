@@ -11,7 +11,7 @@
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
-					<td>First Name</td>
+					<td>First Namee</td>
 					<td><input type="text" name="First_namee" /></td>
 				</tr>
 				<tr>
